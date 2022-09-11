@@ -2,7 +2,7 @@
 
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por :
-Naiara Cacique 
+**Naiara Cacique**
 <a href="https://www.linkedin.com/in/naiara-lana-cacique-277a3624a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 enquanto estudante da [Trybe](https://www.betrybe.com/) :rocket:
 
