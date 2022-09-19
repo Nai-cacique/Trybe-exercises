@@ -43,6 +43,3 @@ div:hover {
       div:nth-child(odd)h3 {
         font-style:italic;
       }
-      #linguagens li:not(:nth-child(n + 4)) {
-        color: blue;
-      }
